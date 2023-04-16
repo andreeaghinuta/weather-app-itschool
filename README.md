@@ -1,4 +1,4 @@
-# itschool-weather
+# weather-app-itschool
 https://weather-app-itschool-clone.netlify.app/
 
 About the project 
