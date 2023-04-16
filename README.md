@@ -1,5 +1,9 @@
 # itschool-weather
-The JS project from my web development course @ IT School
+https://weather-app-itschool-clone.netlify.app/
 
-## Demo
-The project is deployed here: https://itschool-weather.netlify.app/
+About the project 
+
+The project is a weather application that displays the current weather and a 5 day forecast with data for every 3 hours based on geolocation.
+
+
+
